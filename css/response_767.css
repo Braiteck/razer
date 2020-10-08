@@ -20,10 +20,6 @@
     /*------------
         Header
     ------------*/
-    header .logo img
-    {
-        height: 38px;
-    }
 
 
 
@@ -75,6 +71,17 @@
     .text_block
     {
         line-height: 23px;
+    }
+
+
+    .text_block .gallery
+    {
+        display: block;
+    }
+
+    .text_block .gallery > img
+    {
+        max-width: calc(100% - 20px);
     }
 
 

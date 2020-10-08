@@ -32,11 +32,6 @@
         margin: 0;
     }
 
-    header .logo img
-    {
-        height: 41px;
-    }
-
     header .logo .desc
     {
         display: none;
@@ -312,7 +307,7 @@
 
     .steps .bottom
     {
-        margin-top: 130px;
+        margin-top: 160px;
         margin-left: 0;
         padding: 170px 25px 25px 25px;
 
@@ -464,7 +459,7 @@
 
     .garanti_info .bottom
     {
-        margin-top: 130px;
+        margin-top: 160px;
         margin-left: 0;
         padding: 170px 25px 25px 25px;
 

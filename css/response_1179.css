@@ -48,11 +48,6 @@
         line-height: 20px;
     }
 
-    header .logo img
-    {
-        height: 50px;
-    }
-
     header .logo > * + *
     {
         margin-left: 20px;
@@ -278,6 +273,7 @@
     .garanti_head .info .title
     {
         font-size: 42px;
+        line-height: normal;
     }
 
     .garanti_head .info .sub_title
@@ -307,7 +303,7 @@
 
     .garanti_info .bottom
     {
-        margin-top: 60px;
+        margin-top: 80px;
         margin-left: 165px;
         padding: 30px 10px 30px 215px;
     }
@@ -410,21 +406,5 @@
     footer .menu > * + *
     {
         margin-left: 50px;
-    }
-
-
-    footer .copyright
-    {
-        width: 100%;
-        margin-bottom: 20px;
-
-        text-align: center;
-    }
-
-
-    footer .lang
-    {
-        margin-right: auto;
-        margin-left: 30px;
     }
 }

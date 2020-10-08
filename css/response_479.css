@@ -167,15 +167,21 @@
 
     .steps .step + .step:before
     {
-        display: none;
+        top: 36px;
+        left: -36px;
+
+        width: 53px;
+        height: 24px;
+
+        background-size: 100% 100%;
     }
 
 
 
     .steps .bottom
     {
-        margin-top: 125px;
-        padding: 130px 20px 35px 20px;
+        margin-top: 150px;
+        padding: 160px 20px 35px 20px;
 
         border-width: 8px;
     }
@@ -272,8 +278,8 @@
     ------------------*/
     .garanti_info .bottom
     {
-        margin-top: 125px;
-        padding: 130px 20px 35px 20px;
+        margin-top: 150px;
+        padding: 160px 20px 35px 20px;
 
         border-width: 8px;
     }
